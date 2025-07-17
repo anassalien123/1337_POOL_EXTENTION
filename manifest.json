@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "1337 pool",
+  "description": "pool is come",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://admission.1337.ma/candidature/piscine/*"],
+      "js": ["index.js"]
+    }
+  ]
+}

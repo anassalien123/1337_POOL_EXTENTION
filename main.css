@@ -1,0 +1,13 @@
+html body{
+    background: rgb(0, 255, 13);
+}
+/* مثال بسيط */
+.pool-extension {
+  background-color: #d1fae5;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #10b981;
+  color: #065f46;
+  font-weight: bold;
+}
